@@ -1,2 +1,7 @@
-# TheBridgePE
-Türkiyede ilk PocketMine TheBridge eklentisi
+# TheBridgePE - AlicanCopur
+
+Türkiye'de ilk PocketMine TheBridge eklentisidir.
+
+Eklenti 2018 - Nisan'da kodlanmıştır ve sunucuyu yoran eski bir sistem kullanmaktadır.
+
+Yakında yeni ve günce! sürümü gelecektir.
